@@ -1,0 +1,15 @@
+@media screen and (max-width: 654px) {
+  nav ul li {
+    display: block;
+    text-align: center;
+  }
+
+  nav ul {
+    padding: 0;
+  }
+
+  .aside, .content{
+    float: none;
+    width: 100%;
+  }
+}
